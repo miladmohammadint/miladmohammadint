@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Consultant with Cognizant Technology Solutions<br>🤝 I’m looking to collaborate on open source projects<br> 🌱 Node.js and Next.js<br>⚡ Technology professional for 3+ years
+🔭 I’m currently a Consultant with Cognizant Technology Solutions<br>🤝 I’m looking to collaborate on open source projects<br> 🌱 Currently learning Node.js<br>⚡ Technology professional for 3+ years
 
 
 ## 🌐 Socials:
